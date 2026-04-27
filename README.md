@@ -188,7 +188,7 @@ public class SahilKundu {
 <div align="center">
 
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-&nbsp;&nbsp;
+&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=4)
 
 </div>
@@ -211,7 +211,7 @@ public class SahilKundu {
 ║  This Week : Week 1 — Arrays, Two Pointers, Prefix Sum           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  MONTH 1 PROGRESS                                                ║
-║  Week 1 ████████░░░░░░░░░░░░░░░░░░  Arrays & Two Pointers        ║
+║  Week 1 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Arrays & Two Pointers        ║
 ║  Week 2 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Sliding Window & Strings     ║
 ║  Week 3 ░░░░░░░░░░░░░░░░░░░░░░░░░░  LinkedList & Stacks          ║
 ║  Week 4 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Binary Search + Mock         ║
