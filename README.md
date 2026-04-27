@@ -205,20 +205,20 @@ public class SahilKundu {
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           SAHIL'S FAANG PREP — LIVE STATUS BOARD                ║
+║           SAHIL'S FAANG PREP — LIVE STATUS BOARD                 ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Phase     : Month 1 of 18 — DSA Foundation                     ║
-║  This Week : Week 1 — Arrays, Two Pointers, Prefix Sum          ║
+║  Phase     : Month 1 of 18 — DSA Foundation                      ║
+║  This Week : Week 1 — Arrays, Two Pointers, Prefix Sum           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  MONTH 1 PROGRESS                                                ║
-║  Week 1 ████████░░░░░░░░░░░░░░░░░░  Arrays & Two Pointers       ║
-║  Week 2 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Sliding Window & Strings    ║
-║  Week 3 ░░░░░░░░░░░░░░░░░░░░░░░░░░  LinkedList & Stacks         ║
-║  Week 4 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Binary Search + Mock        ║
+║  Week 1 ████████░░░░░░░░░░░░░░░░░░  Arrays & Two Pointers        ║
+║  Week 2 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Sliding Window & Strings     ║
+║  Week 3 ░░░░░░░░░░░░░░░░░░░░░░░░░░  LinkedList & Stacks          ║
+║  Week 4 ░░░░░░░░░░░░░░░░░░░░░░░░░░  Binary Search + Mock         ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Daily   : Weekdays 6h · Weekends 10h · Total ~152h/month        ║
-║  Solved  : 0 problems this week  (target: 10)                   ║
-║  Streak  : Day 1 🔥  — the graph starts today                   ║
+║  Solved  : 0 problems this week  (target: 10)                    ║
+║  Streak  : Day 1 🔥  — the graph starts today                    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
