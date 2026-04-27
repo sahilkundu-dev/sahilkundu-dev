@@ -135,7 +135,7 @@ public class SahilKundu {
 
 ---
 
-### 📚 [DSA Solutions — Java](https://github.com/YOUR_USERNAME/dsa-solutions-java) &nbsp; ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+### 📚 [DSA Solutions — Java](https://github.com/sahilkundu-dev/dsa-solutions-java) &nbsp; ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 > My complete FAANG DSA preparation — 280 problems, organized by pattern, not just topic
 
 - Every solution file has: **problem link · brute force · optimal approach · Big-O analysis · edge cases handled**
