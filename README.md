@@ -147,7 +147,7 @@ public class SahilKundu {
 
 ---
 
-### 🔗 [URL Shortener System](https://github.com/YOUR_USERNAME/url-shortener) &nbsp; ![Status](https://img.shields.io/badge/Status-Month_4-lightgrey?style=flat-square)
+### 🔗 [URL Shortener System](https://github.com/sahilkundu-dev/URL-Shortner-System) &nbsp; ![Status](https://img.shields.io/badge/Status-Month_4-lightgrey?style=flat-square)
 > Scalable URL shortening service — designed to handle millions of requests
 
 - Base62 encoding for short URL generation, custom alias support, click analytics
